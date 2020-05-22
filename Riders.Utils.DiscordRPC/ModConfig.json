@@ -1,0 +1,16 @@
+{
+  "ModId": "Riders.Utils.DiscordRPC",
+  "ModName": "Rich Presence for Sonic Riders",
+  "ModAuthor": "Sewer56",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Adds Rich Presence support to Sonic Riders",
+  "ModDll": "Riders.Utils.DiscordRPC.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/Riders.Utils.DiscordRPC.dll",
+  "ModR2RManagedDll64": "x64/Riders.Utils.DiscordRPC.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": null,
+  "SupportedAppId": [ "sonicriders.exe" ]
+}
